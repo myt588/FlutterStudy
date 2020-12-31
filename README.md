@@ -1,16 +1,7 @@
-# FlutterTutorial
+# FlutterStudy
 
-A new Flutter project.
+The study is composed of three parts:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. basic study of flutter including UI layout, http calls, state management [basic-flutter](https://github.com/myt588/FlutterStudy)
+2. Call native functions from flutter side [call-native-in-flutter](https://github.com/myt588/FlutterStudy/tree/call-native-in-flutter)
+3. Call flutter functions from native side [call-flutter-in-native](https://github.com/myt588/FlutterStudy/tree/call-flutter-in-native)
